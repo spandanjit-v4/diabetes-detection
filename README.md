@@ -21,3 +21,7 @@ The model that was chosen among 16 different models is the HistGradientBoostingC
 The scores of the model that were initially tested out are:
 
 ![](assets/model_scores.png)
+
+The model has undergone 5 different iterations, each taking around 40-45 minutes to train based on the number of hyperparameters to tune. The scores of the final model that was tuned and is presented are:
+
+![](assets/hist5_train_test_scores.png)
