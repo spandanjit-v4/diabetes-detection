@@ -12,7 +12,7 @@ which contains 253,680 survey responses to the CDC's BRFSS2015. The target varia
 
 The distribution of the differnt values of the target class according to sex and age is as follows:
 
-
+![](assets/sex_distribution.png)
 ![](assets/age_distribution.png)
 
 #### About the dataset, from Kaggle:
