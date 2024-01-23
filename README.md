@@ -14,7 +14,7 @@ The distribution of the differnt values of the target class according to sex and
 
 ![](assets/sex_distribution.png)
 
-!['Different types of diabetes according to various age groups'](assets/age_distribution.png)
+![](assets/age_distribution.png)
 
 #### About the dataset, from Kaggle:
 
