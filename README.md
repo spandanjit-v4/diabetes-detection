@@ -10,7 +10,7 @@ In this repository, the main model chosen is a HistGradientBoostingClassifer whi
 In the project, the main dataset used is the `diabetes_012_health_indicators_BRFSS2015.csv` file from [Diabetes Health Indicators Dataset from Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?rvi=1) 
 which contains 253,680 survey responses to the CDC's BRFSS2015. The target variable `Diabetes_012` has 3 classes. 0 is for no diabetes or only during pregnancy, 1 is for prediabetes, and 2 is for diabetes. There is class imbalance in this dataset. This dataset has 21 feature variables. The distribution of the target value is as; 213703 values for 0 class, 4631 values for 1 class, and 35346 values for 2 class.
 
-The distribution of the differnt values of the target class according to sex and age is as follows:
+The distribution of the differnt values of the target class according to sex is as follows:
 
 ![](assets/sex_distribution.png)
 ![](assets/age_distribution.png)
