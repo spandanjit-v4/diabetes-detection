@@ -6,7 +6,7 @@ from data import eda
 from model import model
 from predict import diabetes_predict
 
-st.set_page_config(page_title = "GlucoMatrix",
+st.set_page_config(page_title = "GlucoMatrice",
 				   page_icon = ":chocolate_bar:",
                    layout = "wide",
                    initial_sidebar_state = "expanded")
